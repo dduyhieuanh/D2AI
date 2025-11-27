@@ -10,4 +10,4 @@
   - Tìm hiểu về Data Sources (Kaggle, Hugging Face,...)
 4. Exploratory Data Analysis (EDA):
   - Tìm hiểu EDA là gì
-  - Tìm hiểu và giải thích EDA theo 3 khía cạnh: Hiểu dữ liệu, Phân tích dữ liêu, Trực quan hoá dữ liệu
+  - Tìm hiểu và giải thích EDA theo 3 khía cạnh: Hiểu dữ liệu, Phân tích dữ liêu, Trực quan hoá dữ liệu.
